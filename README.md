@@ -201,7 +201,7 @@ Este proyecto está bajo la licencia ISC.
 
 ## 👤 Autor
 
-**Juan Novichenko** - [@juanovichtb](https://github.com/juanovichtb)
+**Juan Tacuri/ Tecnoicymi** - [@juanovichtb](https://github.com/juanovichtb)
 
 ## 🙏 Agradecimientos
 
