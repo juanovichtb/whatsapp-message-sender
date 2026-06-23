@@ -129,7 +129,7 @@ class WhatsAppService {
       return await this.sock.sendMessage(jid, content);
 
     } catch (error) {
-      if (error.message.includes('No sessions')) {
+      if (error.message.includes('No sessions*')) {
         await new Promise(resolve => setTimeout(resolve, 1500));
         return await this.sock.sendMessage(jid, content);
       }
